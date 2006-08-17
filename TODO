@@ -1,0 +1,10 @@
+* add Makefile.PL
+* add Locale::Maketext::Simple, CPANPLUS 0.051, Bundle::CPANPLUS::Test::Reporter to Makefile.PL dependencies
+* continue editing pod from "=head2 Checking test reports"
+* update testerguide.pod
+
+### beta release
+* add tests
+* add Smoke.pm with rudimentary docs
+* upload beta version
+* announce to perl-qa, cpanplus-devel|info
